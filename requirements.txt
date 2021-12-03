@@ -1,0 +1,11 @@
+matplotlib
+tqdm
+scipy
+torch
+pandas
+tensorflow_probability
+numpy
+pytest
+tensorflow
+scikit_learn
+
