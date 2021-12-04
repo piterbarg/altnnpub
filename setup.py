@@ -7,7 +7,7 @@ setuptools.setup(
     name="altnnpub",  # Replace with your own username
     version="0.0.1",
     author="Vladimir V. Piterbarg",
-    author_email="personal@megabarg.com",
+    author_email="altnnpub@megabarg.com",
     description="Implementation of gSS anf fTT algorithms",
     long_description=long_description,
     long_description_content_type="text/markdown",
