@@ -84,7 +84,7 @@ flask_cache/
 
 # VS and VSCode stuff
 .vs/
-.vscode/
+#.vscode/
 
 # output from notebooks, tests, etc
 temp_output/
